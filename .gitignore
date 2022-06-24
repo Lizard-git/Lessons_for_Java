@@ -2,3 +2,4 @@
 /.gradle/
 /Java_Core/build/
 /Java_Core/build/classes/java/main/
+/.idea/*
